@@ -10,6 +10,7 @@ Build using the Firebase PHP library from:
 [![Build Status](https://drone.io/github.com/ktamas77/firebase-php/status.png)](https://drone.io/github.com/ktamas77/firebase-php/latest)
 
 Firebase PHP Client
+https://github.com/ktamas77/firebase-php
 
 Based on Firebase REST API: https://www.firebase.com/docs/rest-api.html
 
