@@ -1,7 +1,7 @@
 <?php
 require_once 'firebaseLib.php';
 // --- This is your Firebase URL
-$url = 'https://rfid-catcher.firebaseIO.com/';
+$url = 'YOUR FIREBASE URL';
 // --- Use your token from Firebase here
 $token = 'YOUR TOKEN HERE';
 // --- Here is your parameter from the http GET
